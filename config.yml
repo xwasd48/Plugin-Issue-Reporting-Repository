@@ -1,0 +1,41 @@
+# 这是本插件的配置文件  |  This is the configuration file for this plugin
+# 当竞技场内玩家达到此数量时，倒计时将开始
+# The countdown will start when the number of players in the arena reaches this amount
+# 当玩家数量达到最小要求，但尚未满员时，在聊天栏显示的提示文本
+# The message displayed in chat when the minimum player requirement is met but the arena is not yet full
+# 占位符说明  |  Placeholder descriptions:
+# {arenagroup} - 地图组名称（如 Solo、4v4v4v4），当然也可以是自定义的组
+# {arenagroup} - Arena group name (e.g., Solo, 4v4v4v4), can also be a custom group
+# {arena}      - 竞技场名称，可Bedwars1058的竞技场配置文件更改
+# {arena}      - Arena name, can be changed in the Bedwars1058 arena configuration file
+# {player}     - 玩家名称，用于发布手动邀请时显示的玩家名称
+# {player}     - Player name, used to display the inviting player's name in manual invites
+# {seconds}    - 秒数，用于计算统计时间
+# {seconds}    - Seconds, used for calculating cooldown time
+# "Sound"配置项为播放的音效名称
+# The "Sound" option specifies the name of the sound effect to be played
+# 请根据你的服务器版本替换为正确的音效名称
+# Please replace with the correct sound name according to your server version
+# 1.8 版本：LEVEL_UP
+# 1.8 Version: LEVEL_UP
+# 1.12 版本：ENTITY_PLAYER_LEVELUP
+# 1.12 Version: ENTITY_PLAYER_LEVELUP
+# 1.16+ 版本：ENTITY_PLAYER_LEVELUP
+# 1.16+ Version: ENTITY_PLAYER_LEVELUP
+# 具体根据你的服务器版本替换
+# Replace it specifically according to your server version
+enable-minplayers-passed: true
+enable-arena-starting: true
+enable-yq-invite: true
+yq-cooldown: 30
+yq-cooldown-message: "&c你需要等待 &e{seconds} &c秒才能再次使用这个命令！"
+minPlayers: 1
+minPlayersPassedText: "&d&lFunnyCraft &f> &e玩家邀请您加入 &7地图: &a{arena}&7 模式: &a{arenagroup} "
+minPlayersPassedTulip: "&a&l左键点击加入"
+arenaStartingText: "&d&lFunnyCraft &f> &e玩家邀请您加入 &7地图: &a{arena}&7 模式: &a{arenagroup} "
+arenaStartingTulip: "&a&l左键点击加入"
+yqInviteText: "&d&lFunnyCraft &f> &e玩家 &b{player}&e 邀请您加入 &7地图: &a{arena}&7 模式: &a{arenagroup} "
+yqInviteTulip: "&a&l左键点击加入"
+play-sound: true
+lobbyWorldName: "world"
+Sound: "ENTITY_PLAYER_LEVELUP"

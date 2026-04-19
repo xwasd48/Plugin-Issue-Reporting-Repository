@@ -4,11 +4,11 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### Download
 Modrinth:  
- [BedWars1058-ArenaStartMessage on Modrinth]([https://modrinth.com/plugin/bedwars1058-arenastartmessage](https://modrinth.com/plugin/bedwars1058-arenastartmessage))
+https://modrinth.com/plugin/bedwars1058-arenastartmessage
 
 ### Test Server
 You can test the plugin on our public server:  
@@ -25,11 +25,11 @@ For general questions or quick help, join our QQ Group: **1076638953**
 
 ---
 
-## 🇨🇳 中文
+## 中文
 
 ### 下载插件
 Modrinth：  
- [BedWars1058-ArenaStartMessage on Modrinth]([https://modrinth.com/plugin/bedwars1058-arenastartmessage](https://modrinth.com/plugin/bedwars1058-arenastartmessage))
+https://modrinth.com/plugin/bedwars1058-arenastartmessage
 
 ### 测试服务器
 你可以在我们的公共测试服务器上体验该插件：  

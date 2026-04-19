@@ -1,4 +1,4 @@
-# BedWars1058-ArenaStartMessage Issue Tracker
+# BedWars1058-Inviter Issue Tracker
 
 > This repository is **only** for collecting bug reports and feature requests for the `BedWars1058-ArenaStartMessage` plugin. **No source code is stored here.**
 
@@ -8,7 +8,7 @@
 
 ### Download
 Modrinth:  
-https://modrinth.com/plugin/bedwars1058-arenastartmessage
+https://modrinth.com/plugin/bedwars1058-inviter
 
 ### Test Server
 You can test the plugin on our public server:  
@@ -29,7 +29,7 @@ For general questions or quick help, join our QQ Group: **1076638953**
 
 ### 下载插件
 Modrinth：  
-https://modrinth.com/plugin/bedwars1058-arenastartmessage
+https://modrinth.com/plugin/bedwars1058-inviter
 
 ### 测试服务器
 你可以在我们的公共测试服务器上体验该插件：  

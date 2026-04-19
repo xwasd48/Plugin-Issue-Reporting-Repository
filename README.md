@@ -1,6 +1,6 @@
 # BedWars1058-Inviter Issue Tracker
 
-> This repository is **only** for collecting bug reports and feature requests for the `BedWars1058-ArenaStartMessage` plugin. **No source code is stored here.**
+> This repository is **only** for collecting bug reports and feature requests for the `BedWars1058-Inviter` plugin. **No source code is stored here.**
 
 ---
 

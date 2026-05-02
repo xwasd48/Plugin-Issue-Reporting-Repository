@@ -6,6 +6,10 @@ labels: ''
 assignees: ''
 
 ---
+### Which plugin are you using?
+- [ ] BedWars1058-Inviter
+- [ ] Bedwars1058-Spectatorfix
+- [ ] Footprints
 
 ### Is the plugin on the latest version?
 - [ ] Yes

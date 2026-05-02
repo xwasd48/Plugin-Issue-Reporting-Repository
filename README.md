@@ -1,6 +1,6 @@
 # Plugins Issue Tracker
 
-> This repository is **only** for collecting bug reports and feature requests for my plugin. **No source code is stored here.**
+> This repository is **only** for collecting bug reports and feature requests for plugins. **No source code is stored here.**
 
 ---
 
